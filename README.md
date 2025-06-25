@@ -46,7 +46,19 @@ This project demonstrates:
 
 
 نمودار:
+
+
+
+
+
+
+
+
+
 ![Scatter plot of Iris data](iris_scatter.png)
+
+
+
 
 
 
@@ -54,14 +66,14 @@ This project demonstrates:
 
 👋 My name is **Abolfazl Karimi**. I am a professional AI programmer specializing in developing real-world machine learning and deep learning projects. 
 📫 Contact me via Email: karimiabolfazl466@gmail.com  
-📱 Telegram: [@Abolfazl83](https://t.me/Abolfazl83)   
-🌐 LinkedIn: [***](***)  
+📱 Telegram: [@Abolfazlk83](https://t.me/Abolfazlk83)   
+🌐 LinkedIn: ***  
 🐙 GitHub: [github.com/abolfazlkarimi83](https://github.com/abolfazlkarimi83)
 
 ---
 
 👋 من **ابوالفضل کریمی** هستم، برنامه‌نویس حرفه‌ای هوش مصنوعی با تخصص در توسعه پروژه‌های عملی یادگیری ماشین و یادگیری عمیق.  
 📫 ایمیل: karimiabolfazl466@gmail.com  
-📱 تلگرام: [@AbolfazlKarimi](https://t.me/AbolfazlKarimi)  
-🌐 لینکدین: [linkedin.com/in/abolfazl-karimi](https://linkedin.com/in/abolfazl-karimi)  
+📱 تلگرام: [@Abolfazlk83](https://t.me/Abolfazlk83)  
+🌐 لینکدین: *** 
 🐙 گیت‌هاب: [github.com/abolfazlkarimi83](https://github.com/abolfazlkarimi83)
