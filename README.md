@@ -43,3 +43,28 @@ This project demonstrates:
 
    ```bash
    pip install -r requirements.txt
+
+
+نمودار:
+![Scatter plot of Iris data](iris_scatter.png)
+
+
+
+## About Me | درباره من
+
+👋 My name is **Abolfazl Karimi**. I am a professional AI programmer specializing in developing real-world machine learning and deep learning projects. I am passionate about advancing my skills and building a strong portfolio in artificial intelligence.  
+
+📫 Contact me via Email: karimiabolfazl466@gmail.com  
+📱 Telegram: [@Abolfazl83](https://t.me/Ablfazl83)   
+🌐 LinkedIn: [***](***)  
+🐙 GitHub: [github.com/abolfazlkarimi83](https://github.com/abolfazlkarimi83)
+
+---
+
+👋 من **ابوالفضل کریمی** هستم، برنامه‌نویس حرفه‌ای هوش مصنوعی با تخصص در توسعه پروژه‌های عملی یادگیری ماشین و یادگیری عمیق.  
+علاقه‌مند به ارتقاء مهارت‌هایم و ساخت یک رزومه قوی در زمینه هوش مصنوعی هستم.
+
+📫 ایمیل: karimiabolfazl466@gmail.com  
+📱 تلگرام: [@AbolfazlKarimi](https://t.me/AbolfazlKarimi)  
+🌐 لینکدین: [linkedin.com/in/abolfazl-karimi](https://linkedin.com/in/abolfazl-karimi)  
+🐙 گیت‌هاب: [github.com/abolfazlkarimi83](https://github.com/abolfazlkarimi83)
