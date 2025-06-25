@@ -31,3 +31,6 @@ This project demonstrates how to preprocess and visualize the famous Iris flower
 - NumPy
 - matplotlib
 - scikit-learn
+
+- ![Scatter plot of Iris data](iris_scatter.png)
+
