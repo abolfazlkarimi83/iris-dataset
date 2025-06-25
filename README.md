@@ -1,36 +1,45 @@
-# Iris Dataset Preprocessing and Visualization
-
-This project demonstrates how to preprocess and visualize the famous Iris flower dataset using Python and Scikit-Learn.
-
-## What this project does:
-- Loads the Iris dataset
-- Splits the data into training and testing sets
-- Visualizes selected features using matplotlib
-- Normalizes the feature values using MinMaxScaler
-
-## Technologies used:
-- Python
-- NumPy
-- matplotlib
-- scikit-learn
+# 🌸 Iris Dataset Visualization & Preprocessing  
+(پیش‌پردازش و تجسم دیتاست آیریس)
 
 ---
 
-# پیش‌پردازش و نمایش گرافیکی دیتاست Iris
+## 📚 About the Project | درباره پروژه
 
-این پروژه نحوه‌ی پیش‌پردازش و نمایش تصویری دیتاست معروف گل‌های آیریس (Iris) را با استفاده از پایتون و Scikit-Learn نشان می‌دهد.
+The Iris dataset is a classic and very popular dataset in machine learning and data science. It contains 150 samples of iris flowers from three species (Setosa, Versicolour, and Virginica). Each sample has four features: sepal length, sepal width, petal length, and petal width.
 
-## این پروژه چه کار می‌کند:
-- بارگذاری دیتاست Iris
-- تقسیم داده‌ها به داده‌های آموزش و تست
-- نمایش تصویری ویژگی‌های انتخابی با matplotlib
-- نرمال‌سازی ویژگی‌ها با استفاده از MinMaxScaler
+این پروژه شامل بارگذاری دیتاست آیریس، تقسیم داده‌ها به دو بخش آموزش و تست، نرمال‌سازی داده‌ها با استفاده از MinMaxScaler، و رسم نمودار پراکندگی (scatter plot) دو ویژگی از دیتاست است.
 
-## تکنولوژی‌های استفاده‌شده:
-- پایتون
-- NumPy
-- matplotlib
-- scikit-learn
+This project demonstrates:
+- Loading datasets with scikit-learn  
+- Splitting data into training and test sets  
+- Feature scaling with MinMaxScaler  
+- Data visualization with Matplotlib
 
-- ![Scatter plot of Iris data](iris_scatter.png)
+---
 
+## 🧩 Dataset Features | ویژگی‌های دیتاست
+
+| Feature Index | Feature Name    | شرح ویژگی            |
+|---------------|-----------------|----------------------|
+| 0             | Sepal Length    | طول کاسبرگ           |
+| 1             | Sepal Width     | عرض کاسبرگ           |
+| 2             | Petal Length    | طول گلبرگ            |
+| 3             | Petal Width     | عرض گلبرگ            |
+
+---
+
+## 🔧 Technologies Used | تکنولوژی‌های استفاده شده
+
+- Python 3.x  
+- NumPy  
+- Matplotlib  
+- Scikit-learn
+
+---
+
+## 🚀 How to Run | نحوه اجرای پروژه
+
+1. ابتدا پکیج‌های مورد نیاز را نصب کنید:
+
+   ```bash
+   pip install -r requirements.txt
