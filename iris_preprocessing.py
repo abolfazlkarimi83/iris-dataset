@@ -1,9 +1,7 @@
-# iris_preprocessing.py
-
 """
 Preprocessing and visualization of the Iris dataset using scikit-learn.
-Author: [Your Name]
-GitHub: [Your GitHub Profile URL]
+Author: [َََAbolfazl Karimi]
+GitHub: [https://github.com/abolfazlkarimi83]
 """
 
 import numpy as np
